@@ -21,9 +21,6 @@ Optionally, plot Altitude vs Time charts using the included scripts.
 Integrate GeoTIFF or shapefiles for enhanced geographic context.
 Example
 
-This repository does not include PySPLIT itself. It adapts PySPLIT output for enhanced visualization.
-Original PySPLIT code was created and maintained by Mellissa S. C. Warner (GitHub: mscross) as an open-source toolkit for HYSPLIT trajectory analysis. This repository extends PySPLIT’s output for enhanced geographic visualization with Cartopy.
+This repository does not include PySPLIT itself. It extends PySPLIT output by adding altitude vs. time charts for back trajectories. Original PySPLIT code was created and maintained by Mellissa S. C. Warner (GitHub: mscross) as an open-source toolkit for HYSPLIT trajectory analysis.
 
 
-MIT License
- – You are free to use, modify, and distribute this code with proper attribution.
