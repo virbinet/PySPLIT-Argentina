@@ -20,11 +20,7 @@ Use the provided plotting routines to visualize trajectories on Cartopy maps.
 Optionally, plot Altitude vs Time charts using the included scripts.
 Integrate GeoTIFF or shapefiles for enhanced geographic context.
 Example
-# Assuming trajgroup is your PySPLIT trajectory object
-from pysplit_cartopy import plot_trajectories
 
-plot_trajectories(trajgroup, mapcorners=[-77, -62, -40, -29])
-Notes
 This repository does not include PySPLIT itself. It adapts PySPLIT output for enhanced visualization.
 Original PySPLIT documentation and source: https://github.com/pysplit/pysplit
 Color mappings, map extent, and base layers can be customized for different regions and datasets.
