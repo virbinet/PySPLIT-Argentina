@@ -1,4 +1,3 @@
-PySPLIT-Argentina
 # PySPLIT Argentina - Back Trajectory Visualization
 
 This repository extends the original [PySPLIT](https://github.com/mscros/pySPLIT) toolkit by adding **altitude vs. time profiles** for back trajectories over Argentina, with enhanced geographic visualization.
