@@ -8,7 +8,7 @@ This repository extends the original [PySPLIT](https://github.com/mscros/pySPLIT
 - Plot trajectories on maps of Argentina with Cartopy
 - Color trajectories by altitude
 - Generate **altitude vs. time charts** for each trajectory
-- Compatible with **Google Colaboratory** for easy reproducibility
+- Compatible with **Python** for easy reproducibility
 
 ## Installation
 
