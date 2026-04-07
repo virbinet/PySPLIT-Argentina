@@ -1,5 +1,5 @@
 # PySPLIT-Argentina
-Adapted PySPLIT workflows for trajectory visualization. This repository extends the original PySPLIT functionality to enable geographic plotting, altitude-based coloring, and integration with GeoTIFF base layers, providing enhanced visualization for back trajectories and plotting altitude vs time.
+Extended PySPLIT workflows for back trajectory visualization. This repository builds on the original PySPLIT functionality by adding altitude vs. time profiles, altitude-based coloring, geographic plotting, and integration with GeoTIFF base layers, providing enhanced insight into back trajectory characteristics.
 
 Features
 Trajectory Visualization: Plot back trajectories directly on maps using Cartopy with Plate Carrée projection.
